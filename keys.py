@@ -1,0 +1,8 @@
+api_key = ''
+api_secret = ''
+bearer_token = ''
+client_id = ''
+client_secret = ''
+access_token = ''
+access_token_secret = ''
+openai_key = ''
